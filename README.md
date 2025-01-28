@@ -1,8 +1,8 @@
-# Landing Page DNC - Desenvolvimento Web
+# Landing Page - Desenvolvimento Web
 
 ## Descrição
 
-Este é o projeto de desenvolvimento do módulo base do curso de Tecnologia da Escola DNC.
+Este é um projeto de criação de uma Landing Page para escola DNC.
 
 ## Ferramentas Utilizadas
 
